@@ -36,7 +36,7 @@
 ### 2.提示框
 
 <div class="container">
-  <a href="#" data-toggle="tooltip" title="我是提示内容!">鼠标移动到我这</a>
+  <a href="#" data-toggle="tooltip" title="提示框内容">鼠标移动</a>
 </div>
 
 <script>
@@ -48,7 +48,7 @@ $(document).ready(function(){
 ### 3.弹出框
 
 <div class="container">
-  <a href="#" data-toggle="popover" title="弹出框标题" data-content="弹出框内容">多次点我</a>
+  <a href="#" data-toggle="popover" title="弹出框内容" data-content="弹出框内容">多次点我</a>
 </div>
 
 <script>

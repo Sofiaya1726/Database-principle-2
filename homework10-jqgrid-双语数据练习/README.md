@@ -15,7 +15,7 @@ INSERT INTO `test`(`id`, `source`, `target`) VALUES ('1','By Tuesday morning, th
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Jhomework_test</title>
+<title>homework_test</title>
 <link rel="stylesheet" type="text/css" href="jqgrid/css/ui.jqgrid.css">
 <link rel="stylesheet" type="text/css"	href="jqgrid/jquery.ui/jquery-ui.css">
 <script type="text/javascript" src="jqgrid/js/jquery-1.7.2.min.js"></script>
